@@ -1,0 +1,7 @@
+-  request:
+      url: /reviews/2016/month/
+   response:
+      status: 201
+      headers:
+         content-type: application/json
+      body: '{"January":102,"February":71,"March":160,"April":123,"May":78,"June":98,"July":81,"August":97,"September":89,"October":34,"November":47,"December":78}'

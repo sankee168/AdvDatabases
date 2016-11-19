@@ -277,7 +277,7 @@ $(function () {
 			fontWeight: "normal",
 			horizontalAlign: "center",
 			verticalAlign: "center",
-			text: "55"
+			text: "98797"
 		},
 		toolTip: {
 			cornerRadius: 0,
@@ -297,7 +297,8 @@ $(function () {
 				dataPoints: [
 					{  y: 39, name: "Desktop" },
 					{  y: 5, name: "Tablet" },
-					{  y: 11, name: "Mobile" }
+					{  y: 11, name: "Mobile" },
+					{  y: 80, name: "BCD"}
 				]
 			}
 		]
